@@ -1,0 +1,10 @@
+.carousel .slide img {
+  height: 350px;
+  width: auto!important;
+}
+
+@media all and (max-width: 500px) {
+  .carousel .slide img {
+    height: 200px;
+  }
+}
